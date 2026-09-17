@@ -1,0 +1,40 @@
+# LabelDoc Backend — minimal, clean requirements
+# Install with: pip install -r requirements.txt
+
+# --- Web framework ---
+fastapi==0.110.1
+starlette==0.37.2
+uvicorn==0.25.0
+python-multipart==0.0.32
+
+# --- Database ---
+motor==3.6.0
+pymongo==4.9.2
+
+# --- Data validation ---
+pydantic==2.13.4
+
+# --- LLM (OpenAI-compatible) ---
+openai==1.99.9
+httpx==0.28.1
+
+# --- Scraping / HTML parsing ---
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.2
+
+# --- Config ---
+python-dotenv==1.2.3
+
+# --- Testing ---
+pytest==9.1.1
+pytest-xdist==3.8.0
+
+# --- Google Gemini native SDK ---
+google-genai>=1.0.0
+
+# --- Image processing ---
+pillow>=10.0.0
+
+# --- DOCX export ---
+python-docx>=1.1.0
