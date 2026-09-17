@@ -1,4 +1,4 @@
-# LabelDoc — AI-Powered Legal Metrology Compliance Platform
+# LabelDoc - AI-Powered Legal Metrology Compliance Platform
 
 Smart India Hackathon 2026 | Problem Statement: SIH26034
 Team: Bitbandits | Theme: Miscellaneous
@@ -16,11 +16,11 @@ Metrology (Packaged Commodities) Rules, 2011.
 ## Key Features
 
 - Multi-side label scanning (Front, Back, Side, Extra panels)
-- Google Gemini Vision AI — multilingual OCR (Hindi + English)
-- PCR 2011 Rule Engine — validates all 9 mandatory declarations
-- Product Compliance— persistent product compliance record
-- Drift Detection — detects what changed between inspections
-- Risk-Based Prioritisation — ranks products HIGH / MEDIUM / LOW
+- Google Gemini Vision AI - multilingual OCR (Hindi + English)
+- PCR 2011 Rule Engine - validates all 9 mandatory declarations
+- Product Compliance - persistent product compliance record
+- Drift Detection - detects what changed between inspections
+- Risk-Based Prioritisation - ranks products HIGH / MEDIUM / LOW
 - Court-ready PDF + editable DOCX reports with proof photograph
 - Offline-first — works without internet, syncs to MongoDB
 
