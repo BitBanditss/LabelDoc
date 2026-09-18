@@ -22,7 +22,7 @@ Metrology (Packaged Commodities) Rules, 2011.
 - Drift Detection - detects what changed between inspections
 - Risk-Based Prioritisation - ranks products HIGH / MEDIUM / LOW
 - Court-ready PDF + editable DOCX reports with proof photograph
-- Offline-first — works without internet, syncs to MongoDB
+- Offline-first - works without internet, syncs to MongoDB
 
 ---
 
